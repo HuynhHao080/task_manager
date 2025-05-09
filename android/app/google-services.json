@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "79341673852",
+    "project_id": "flutter-task-manager-ad52e",
+    "storage_bucket": "flutter-task-manager-ad52e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79341673852:android:88185a66081dd8944198f9",
+        "android_client_info": {
+          "package_name": "com.example.task_manager_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79341673852-j69umb8vbrqgae1hsqd76efb6n3bmppl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task_manager_01",
+            "certificate_hash": "cad5eea856db6ebf5a1adeb2ddc2ff4614f42558"
+          }
+        },
+        {
+          "client_id": "79341673852-f5r6ulvu9ghs1p2uk3ocd1vaifbec47f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAMNx1FLfFHk6kWn7WgJMrF-Izqo8tLE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79341673852-f5r6ulvu9ghs1p2uk3ocd1vaifbec47f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79341673852-v5kd9hnf6nff5ld80f2ai8ni3mk04tel.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.taskManager01"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
